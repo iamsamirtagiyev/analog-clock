@@ -106,7 +106,7 @@ body{
     left: 50%;
     translate: -50% 0;
     bottom: 5px;
-    width: 100%;
+    word-wrap:no-wrap;
     text-align: center;
     letter-spacing: 5px;
 }
